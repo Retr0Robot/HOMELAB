@@ -15,7 +15,7 @@ Install Proxmox VE to host virtual machines
 ## Steps
 
 1. Downloaded Proxmox VE ISO
-2. Flashed the ISO file onto my external hard drive 
+2. Flashed the ISO file onto my external hard drive using rufus
 3. Installed Proxmox onto my seconday desktop using graphical install
 4. Configured the server with my main desktop computer
 
@@ -36,6 +36,12 @@ But there is no where to export the backups to since I was treating my external 
 
 2.Reaserch how to use the external drive as my backup storage
 
+## screenshots 
+
+<img width="1919" height="1079" alt="proxhome" src="https://github.com/user-attachments/assets/2493f108-1025-48a3-ac83-5e898e7329a0" />
+
+
+<img width="970" height="312" alt="dhcpres" src="https://github.com/user-attachments/assets/44f2438e-e13a-4bfa-ae70-6682997b4b15" />
 
    
 
