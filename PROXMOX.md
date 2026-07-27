@@ -20,7 +20,7 @@ Install Proxmox VE to host virtual machines
 4. Configured the server with my main desktop computer
 
 ## DHCP reservation
-I loged into my tp link router which is what Proxmox is connected to, and I created a DHCP reservation for Proxmox so that the mac address ALWAYS gets the same IP address so I dont lose the location of Proxmox
+I logged into my tp link router which is what Proxmox is connected to, and I created a DHCP reservation for Proxmox so that the mac address ALWAYS gets the same IP address so I dont lose the location of Proxmox
 
 ## Created a backup drive for VM ISO files
 I used the external hard drive that I flashed the Proxmox ISO on to, and plugged it into the pc running Proxmox
