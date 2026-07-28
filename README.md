@@ -1,4 +1,3 @@
-# HOMELAB
 # Cybersecurity Home Lab
 
 Welcome to my cybersecurity home lab.
@@ -47,14 +46,17 @@ This repository documents my journey learning:
 
 ### In Progress
 
-- [ ] Windows Server
-- [ ] Active Directory
-- [ ] Cable management lol
+- [ ] Networking
+
 ### Future
 
 - [ ] pfSense
 - [ ] VLANs
 - [ ] SIEM
+- [ ] Windows
+- [ ] Docker
+- [ ] Automation
+
 
 ---
 
