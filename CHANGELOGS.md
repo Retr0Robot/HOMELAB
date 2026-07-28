@@ -10,6 +10,6 @@ Made a DHCP reservation on my personal router for the Proxmox mac address
 
 threw on the ZARA AFTER HOURS DEEP HOUSE MIX
 
-added PIHOLE and and downloaded ubuntu live server into a vm on proxmox 
+added PIHOLE into a container and downloaded ubuntu live server along with kali linux into a vm on proxmox 
 
 more updates soon
