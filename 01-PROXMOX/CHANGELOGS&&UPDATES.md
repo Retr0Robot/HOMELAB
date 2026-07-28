@@ -12,7 +12,7 @@ threw on the ZARA AFTER HOURS DEEP HOUSE MIX
 
 added PIHOLE into a container and downloaded ubuntu live server into a vm on proxmox 
 
-## GOALS FOR AUGUST
+## PERSONAL GOALS 
 STAY ON TRACK
 I keep finding myself getting distracted with things such as kali linux, docker, ubuntu. while i still need to learn the fundimentals.
 
