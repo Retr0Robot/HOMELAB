@@ -19,6 +19,10 @@ I keep finding myself getting distracted with things such as kali linux, docker,
 ## July 31st 26
 Installed and ran ubuntu live server vm on proxmox
 
+## August 2nd 26
+Im trying to bridge my VM's together but I FORGOT MY LOGIN FOR THE UBUNTU SERVER so it looks like im going to have to delete and re download
+
+
 
 
 
