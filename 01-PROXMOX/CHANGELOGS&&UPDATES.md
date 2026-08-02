@@ -20,6 +20,7 @@ I keep finding myself getting distracted with things such as kali linux, docker,
 Installed and ran ubuntu live server vm on proxmox
 
 ## August 2nd 26
+I set up kali linux vm and set up static ip addresses for both kali and ubuntu server so that they can communicate with each other
 
 
 
